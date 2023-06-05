@@ -1,0 +1,225 @@
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+    background-color:#2C3E8E;
+    color: white;
+    margin-right: -8px;
+    margin-top: -10px;
+    margin-left: -8px;
+    height: 70px;
+    padding-bottom: 20px;
+}
+
+nav{
+display: flex;
+width: 100%;
+align-items: center;
+
+}
+.div{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    width: 400px;
+    margin-left: 400px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.b{
+    width: 1000px;
+    align-items: center;
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+footer{
+    background-color: #2C3E8E;
+    padding-left: 20px;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-bottom: -20px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+
+body{
+    background-image: url('https://getwallpapers.com/wallpaper/full/c/0/1/30210.jpg');
+    background-size: cover;
+}
+
+
+
+.c{
+    text-align: center;
+    color: white;
+    width: 400px;
+}
+
+
+iframe{
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+    height: 800px;
+    width: 1830px;
+}
+
+
+.div_1{
+    padding-left: 500px;
+}
+
+.div_1 h3{
+    margin: 0;
+}
+
+.div_2{
+    padding-left: 350px;
+}
+.div_2 h3{
+    margin: 0;
+}
+
+#div-1{
+    border-radius: 20px;
+   background-color: #f7f7f7;
+   margin-left: 200px;
+   padding-left: 100px;
+   margin-top: 100px;
+   padding-top: 10px;
+   margin-right: 200px;
+   margin-bottom: 50px;
+   height: 700px;
+    display: flex;
+
+}
+button{
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    background-color: #2C3E8E;
+    color: white;
+}
+
+
+#ciudad{
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+
+}
+
+#weather-data{
+    padding-left: 200px;
+}
+
+
+
+/* Estilos para la página de inicio */
+
+.gallery {
+    background-color: #e9e9e9;
+    padding: 30px;
+  }
+  
+  .testimonials {
+    background-color: #f7f7f7;
+    padding: 30px;
+    width: 500px;
+    padding-left: 300px;
+  }
+  
+  .testimonial {
+    margin-bottom: 20px;
+    
+  }
+  
+  .benefits {
+    background-color: #e9e9e9;
+    padding: 30px;
+    width: 950px;
+    margin-left: 822px;
+  }
+  
+  .benefit {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .benefit img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .interactive {
+    background-color: #f7f7f7;
+    padding: 30px;
+  }
+  
+  .counter {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .image-container{
+    display: flex;
+    justify-content: space-around;
+  }
+
+
+
+
+/* Estilos para la página "Sobre nosotros" */
+
+  
+.principal{
+    width: 1810px;
+    height: 900px;
+    background-color: #f7f7f7;
+    padding-left:20px ;
+    padding-top: -20px;
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+.principal h2{
+font-size: 30px;
+
+}
+.principal p{
+    font-size: 20px;
+    
+    }
+.content p{
+    width: 900px;
+}
+
+.team{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.team img{
+    width: 150px;
+    height: 150px;
+    
+}
+
+
+.value{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.value-1{
+width: 400px;
+}
